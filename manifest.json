@@ -1,0 +1,14 @@
+{
+    "name":"Seesaw Dark Theme!",
+    "description":"A extension to make Seesaw dark theme!",
+    "manifest_version":2,
+    "version":"0.1",
+    "icons":{"522":"icon.png"},
+    "content_scripts": [
+        {
+          "matches": [
+              "*://app.seesaw.me/*"],
+          "js": ["content.js"]
+        }
+      ]
+}
