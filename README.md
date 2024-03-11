@@ -1,8 +1,8 @@
 # Seesaw Dark Theme (Extension)
 
-![issues](https://img.shields.io/github/issues/McJoe21/seesaw-dark-theme)
-![forks](https://img.shields.io/github/forks/McJoe21/seesaw-dark-theme)
-![stars](https://img.shields.io/github/stars/McJoe21/seesaw-dark-theme)
+![issues](https://img.shields.io/github/issues/McJoe21Dev/seesaw-dark-theme)
+![forks](https://img.shields.io/github/forks/McJoe21Dev/seesaw-dark-theme)
+![stars](https://img.shields.io/github/stars/McJoe21Dev/seesaw-dark-theme)
 ![made-for](https://img.shields.io/badge/Made%20For-Seesaw-lightgrey)
 
 ## About the Project
